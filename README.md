@@ -37,10 +37,12 @@ Install dependencies (Python 3.8+ recommended):
 ## ▶️ Usage
 
 Clone the repository:
-
+```
 git clone https://github.com/xsmartbartx/Light_recognition.git
+```
+```
 cd Light_recognition
-
+```
 
 Run the main script:
 
@@ -71,5 +73,3 @@ Add modular detectors (e.g., deep learning models) for advanced light pattern re
 ## 🔐 License
 
 This project is licensed under the MIT License.
-```bash
-pip install opencv-python numpy
